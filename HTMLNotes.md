@@ -1,5 +1,8 @@
 # HTML NOTES
 ## TAGS
+
+<img src="http://www.actualidadkd.com/wp-content/uploads/aprender-html.jpg" />
+
 HTML is a markup language composed by a set of elements that are the basis of its structure. These elements conform a toolbox authors can use to shape their documents.
 
 An HTML element is usually composed by two tags: the opening tag and the closing tag. An opening tag consists of the element's name encolsed by the lesser-than "<" and greater-than ">" signs. The closing tag is constructed like the opening tag but, in this case, the element's name is preceded by a slash ("/").
@@ -118,6 +121,5 @@ _This element includes the **global attributes**_
 You can find more information in: 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p">
   <img src="https://tentacu.files.wordpress.com/2015/03/mdn_logo-wordmark-full_color.jpg"/>
-Mozilla Developer Network 
-</a>
+Mozilla Developer Network </a>
 
