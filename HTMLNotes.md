@@ -24,6 +24,30 @@ The HTML tags follow an order such as the example bellow:
 </BODY>
 </HTML>
 ~~~
+# Global Attributes:
+
+## The following attributes are standard across all HTML 5 tags.
+
+- accesskey
+- class
+- contenteditable
+- contextmenu
+- dir
+- draggable
+- dropzone
+- hidden
+- id
+- itemid
+- itemprop
+- itemref
+- itemscope
+- itemtype
+- lang
+- spellcheck
+- style
+- tabindex
+- title
+- transla
 
 # TAG < a >
 The HTML < a > element (or anchor element) creates a hyperlink to other web pages, files, locations within the same page, email addresses, or any other URL.
@@ -64,11 +88,11 @@ This small example use an image to link to the MDN home page. The home page will
 </a>
 ~~~~
 You can find more information in:
-link https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a link
 
-<a href="https://developer.mozilla.org/en-US/" target="_blank">
-  <img src="https://mdn.mozillademos.org/files/6851/mdn_logo.png"
-       alt="MDN logo" />
+
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a">
+  <img src="https://tentacu.files.wordpress.com/2015/03/mdn_logo-wordmark-full_color.jpg"/> Mozilla Developer Network
 </a>
 
 # TAG < P >
@@ -76,7 +100,8 @@ The HTML < p > element represents a paragraph of text. Paragraphs are usually re
 
 ## Some Atributtes:
 
-_This element includes the global attributes._
+_This element includes the **global attributes**_
+
 ## Example
 ~~~~
 <p> This is the first paragraph of text.
@@ -90,4 +115,9 @@ _This element includes the global attributes._
     This is the second paragraph.
 </p>
  ~~~~
+You can find more information in: 
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p">
+  <img src="https://tentacu.files.wordpress.com/2015/03/mdn_logo-wordmark-full_color.jpg"/>
+Mozilla Developer Network 
+</a>
 
